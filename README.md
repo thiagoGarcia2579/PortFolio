@@ -11,4 +11,8 @@
 - Cisco Packet Tracer
 
 ## 🚀 Proyectos
-Próximamente...
+
+## COBOL
+- [Repositorio COBOL](https://github.com/thiagoGarcia2579/Cobol)
+
+Ejercicios y prácticas de COBOL enfocados en lógica, manejo de archivos y fundamentos legacy.
