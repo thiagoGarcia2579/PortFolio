@@ -2,22 +2,49 @@
 
 💻 Estudiante de sistemas  
 🌐 Interesado en Backend, Redes y Ciberseguridad  
-⚙️ Tecnologías:
-- Node.js
-- Express
-- Sequelize
-- Bash
-- MySQL
-- Cisco Packet Tracer
+
+---
+
+## ⚙️ Tecnologías
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Networking-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
 
 ## 🚀 Proyectos
 
-## COBOL
+### 🧠 COBOL
 - [Repositorio COBOL](https://github.com/thiagoGarcia2579/Cobol)
 
-Ejercicios y prácticas de COBOL enfocados en lógica, manejo de archivos y fundamentos legacy.
+Ejercicios y prácticas de COBOL enfocados en lógica, manejo de archivos y fundamentos de sistemas legacy.
 
-## Cisco Packet Tracer (Redes)
+---
+
+### 🌐 Cisco Packet Tracer (Redes)
 - [Repositorio Cisco Packet Tracer](https://github.com/thiagoGarcia2579/Packet-Tracer-Redes)
 
-Laboratorios y trabajos prácticos de redes realizados en Cisco Packet Tracer, incluyendo configuración de servicios como DHCP, DNS, VLANs, routing, VPN y análisis de tráfico. Proyecto enfocado en fundamentos de redes, simulación de infraestructuras y prácticas de nivel CCNA.
+Laboratorios y trabajos prácticos de redes realizados en Cisco Packet Tracer, incluyendo:
+
+- DHCP y DNS  
+- VLANs y trunking  
+- Routing dinámico (RIP / EIGRP)  
+- VPN IPsec  
+- Análisis de tráfico con Wireshark  
+- Configuración de servicios de red  
+
+Proyecto enfocado en fundamentos de redes, simulación de infraestructuras y prácticas tipo CCNA.
+
+---
+
+## 🎯 Objetivo
+
+Seguir desarrollándome en el área de **backend y redes**, con foco en:
+- Infraestructura de red
+- Ciberseguridad
+- Automatización de sistemas
+- Servicios backend escalables
