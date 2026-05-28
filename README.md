@@ -1,7 +1,7 @@
 # 👋 Hola, soy Thiago
 
-💻 Estudiante de sistemas  
-🌐 Interesado en Backend, Redes y Ciberseguridad  
+💻 Estudiante de Informática.  
+🌐 Interesado en Backend, Redes y Ciberseguridad.  
 
 ---
 
