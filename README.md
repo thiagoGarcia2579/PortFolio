@@ -41,8 +41,8 @@ Proyecto enfocado en fundamentos de redes, simulación de infraestructuras y pr�
 
 ---
 
-### 🧠 Redes Neuronales
-- [Repositorio Redes Neuronales](https://github.com/thiagoGarcia2579/Fundamentos-de-Redes-Neuronales)
+### 🧠 Fundamentos de Redes Neuronales
+- [Repositorio Fundamentos de Redes Neuronales](https://github.com/thiagoGarcia2579/Fundamentos-de-Redes-Neuronales)
 
 Trabajos prácticos y ejercicios de Machine Learning y redes neuronales implementados en Python, incluyendo perceptrones simples y multicapa, clasificación de patrones, generalización y reconocimiento de imágenes.
 
