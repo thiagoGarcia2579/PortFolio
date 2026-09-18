@@ -20,12 +20,10 @@
 
 ## 💻 Desarrollo y Programación
 
-### 🧠 COBOL
+### 💾 COBOL
 - [Repositorio COBOL](https://github.com/thiagoGarcia2579/Cobol)
 
 Ejercicios y prácticas de COBOL enfocados en lógica, manejo de archivos y fundamentos de sistemas legacy.
-
----
 
 ### 🧠 Fundamentos de Redes Neuronales
 - [Repositorio Fundamentos de Redes Neuronales](https://github.com/thiagoGarcia2579/Fundamentos-de-Redes-Neuronales)
