@@ -16,7 +16,9 @@
 
 ---
 
-## 🚀 Proyectos
+# 🚀 Proyectos
+
+## 💻 Desarrollo y Programación
 
 ### 🧠 COBOL
 - [Repositorio COBOL](https://github.com/thiagoGarcia2579/Cobol)
@@ -24,6 +26,15 @@
 Ejercicios y prácticas de COBOL enfocados en lógica, manejo de archivos y fundamentos de sistemas legacy.
 
 ---
+
+### 🧠 Fundamentos de Redes Neuronales
+- [Repositorio Fundamentos de Redes Neuronales](https://github.com/thiagoGarcia2579/Fundamentos-de-Redes-Neuronales)
+
+Trabajos prácticos y ejercicios de Machine Learning y redes neuronales implementados en Python, incluyendo perceptrones simples y multicapa, clasificación de patrones, generalización y reconocimiento de imágenes.
+
+---
+
+## 🌐 Redes y Seguridad
 
 ### 🌐 Cisco Packet Tracer (Redes)
 - [Repositorio Cisco Packet Tracer](https://github.com/thiagoGarcia2579/Packet-Tracer-Redes)
@@ -41,12 +52,7 @@ Proyecto enfocado en fundamentos de redes, simulación de infraestructuras y pr�
 
 ---
 
-### 🧠 Fundamentos de Redes Neuronales
-- [Repositorio Fundamentos de Redes Neuronales](https://github.com/thiagoGarcia2579/Fundamentos-de-Redes-Neuronales)
-
-Trabajos prácticos y ejercicios de Machine Learning y redes neuronales implementados en Python, incluyendo perceptrones simples y multicapa, clasificación de patrones, generalización y reconocimiento de imágenes.
-
----
+## 📚 Fundamentos Teóricos
 
 ### 💡 Computabilidad y Complejidad
 
