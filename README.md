@@ -1,10 +1,10 @@
 # 👋 Hola, soy Thiago
 
-💻 Estudiante de Informática.  
-🌐 Interesado en Backend, Redes y Ciberseguridad.  
-[Linkedin](https://www.linkedin.com/in/thiago-garcia-56137321a/)
----
+💻 Estudiante de Licenciatura en Informática.
+🌐 Interesado en Backend, Redes y Ciberseguridad.
+🔗 [LinkedIn](https://www.linkedin.com/in/thiago-garcia-56137321a/)
 
+---
 ## ⚙️ Tecnologías
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
