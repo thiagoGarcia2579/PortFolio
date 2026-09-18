@@ -47,6 +47,14 @@ Proyecto enfocado en fundamentos de redes, simulación de infraestructuras y pr�
 Trabajos prácticos y ejercicios de Machine Learning y redes neuronales implementados en Python, incluyendo perceptrones simples y multicapa, clasificación de patrones, generalización y reconocimiento de imágenes.
 
 ---
+
+### 🧠 Computabilidad y Complejidad
+
+* [Repositorio Computabilidad y Complejidad](https://github.com/thiagoGarcia2579/-Computabilidad-y-complejidad)
+
+Trabajos prácticos y ejercicios sobre teoría de la computación, incluyendo Máquinas de Turing, computabilidad, funciones computables y Máquinas de Turing Universales, implementados y analizados mediante matrices de estados y transiciones.
+
+---
 ## 🎯 Objetivo
 
 Seguir desarrollándome en el área de **backend y redes**, con foco en:
