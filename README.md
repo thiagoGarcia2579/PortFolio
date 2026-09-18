@@ -2,7 +2,7 @@
 
 💻 Estudiante de Informática.  
 🌐 Interesado en Backend, Redes y Ciberseguridad.  
-
+[Linkedin](https://www.linkedin.com/in/thiago-garcia-56137321a/)
 ---
 
 ## ⚙️ Tecnologías
