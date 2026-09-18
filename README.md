@@ -48,11 +48,11 @@ Trabajos prácticos y ejercicios de Machine Learning y redes neuronales implemen
 
 ---
 
-### 🧠 Computabilidad y Complejidad
+### 💡 Computabilidad y Complejidad
 
 * [Repositorio Computabilidad y Complejidad](https://github.com/thiagoGarcia2579/-Computabilidad-y-complejidad)
 
-Trabajos prácticos y ejercicios sobre teoría de la computación, incluyendo Máquinas de Turing, computabilidad, funciones computables y Máquinas de Turing Universales, implementados y analizados mediante matrices de estados y transiciones.
+Trabajos prácticos y ejercicios sobre fundamentos de teoría de la computación, incluyendo lenguajes formales, autómatas, gramáticas, computabilidad, funciones computables, Máquinas de Turing, Máquinas de Turing Universales y conceptos de complejidad computacional. Se abordan distintos problemas mediante el diseño, análisis y representación de modelos computacionales y sus respectivas transiciones.
 
 ---
 ## 🎯 Objetivo
