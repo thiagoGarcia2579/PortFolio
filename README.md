@@ -1,4 +1,4 @@
-# 👋 Hola, soy Thiago
+#Soy Thiago García
 
 💻 Estudiante de Licenciatura en Informática.
 🌐 Interesado en Backend, Redes y Ciberseguridad.
