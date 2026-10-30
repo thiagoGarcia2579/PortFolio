@@ -1,6 +1,6 @@
 # Soy Thiago García
 
-💻 Estudiante de Licenciatura en Informática.
+💻 Estudiante de Licenciatura en Informática. Técnico en Programación.
 🌐 Interesado en Backend, Redes y Ciberseguridad.
 🔗 [LinkedIn](https://www.linkedin.com/in/thiago-garcia-56137321a/)
 
