@@ -30,6 +30,10 @@ Ejercicios y prácticas de COBOL enfocados en lógica, manejo de archivos y fund
 
 Trabajos prácticos y ejercicios de Machine Learning y redes neuronales implementados en Python, incluyendo perceptrones simples y multicapa, clasificación de patrones, generalización y reconocimiento de imágenes.
 
+### 📈 Aprendizaje Automático
+- [Repositorio Aprendizaje Automático](https://github.com/thiagoGarcia2579/AprendizajeAutomatico-)
+
+Trabajos prácticos y ejercicios de Aprendizaje Automático implementados en Python, incluyendo clasificación, regresión, árboles de decisión, algoritmos de aprendizaje y evaluación de modelos.
 ---
 
 ## 🌐 Redes y Seguridad
