@@ -40,6 +40,11 @@ Trabajo práctico integrador de desarrollo de software aplicando principios de a
 
 Trabajos prácticos y ejercicios de Aprendizaje Automático implementados en Python, incluyendo clasificación, regresión, árboles de decisión, algoritmos de aprendizaje y evaluación de modelos.
 
+### 🧮 Algoritmos
+- [Repositorio Algoritmos](https://github.com/thiagoGarcia2579/Algoritmos)
+
+Trabajos prácticos y ejercicios de programación enfocados en el diseño, análisis e implementación de algoritmos. Resolución de problemas mediante estructuras de datos, estructuras de control, recursividad, búsqueda, ordenamiento y análisis de complejidad computacional.
+
 ---
 
 ## 🌐 Redes y Seguridad
