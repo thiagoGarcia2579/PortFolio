@@ -30,6 +30,11 @@ Ejercicios y prácticas de COBOL enfocados en lógica, manejo de archivos y fund
 
 Trabajos prácticos y ejercicios de Machine Learning y redes neuronales implementados en Python, incluyendo perceptrones simples y multicapa, clasificación de patrones, generalización y reconocimiento de imágenes.
 
+### 🧩 Arquitectura de Software I
+- [Repositorio Arquitectura de Software I](https://github.com/thiagoGarcia2579/arquitectura-de-software-i)
+
+Trabajo práctico integrador de desarrollo de software aplicando principios de arquitectura, diseño y buenas prácticas. Implementación de APIs REST, integración con bases de datos PostgreSQL, autenticación y autorización con Keycloak, documentación con OpenAPI, Docker y diseño de sistemas distribuidos.
+
 ### 📈 Aprendizaje Automático
 - [Repositorio Aprendizaje Automático](https://github.com/thiagoGarcia2579/AprendizajeAutomatico-)
 
